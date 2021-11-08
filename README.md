@@ -10,7 +10,7 @@ La correction d'examen TP-ALGORITHMIQUE USTHB
  |  __|   > <    / /\ \ | |\/| |  __| | . ` |   / /\ \ | |   | | |_ | |  | |
  | |____ / . \  / ____ \| |  | | |____| |\  |  / ____ \| |___| |__| | |__| |
  |______/_/ \_\/_/    \_\_|  |_|______|_| \_| /_/    \_\______\_____|\____/ 
- [AMIRA BOULKABOUL || SECTION:X || GROUPE:X]                                    
+ [RAFIK BOUDALIA || SECTION:X || GROUPE:X]                                    
 */
 int main() {
   char choix;
